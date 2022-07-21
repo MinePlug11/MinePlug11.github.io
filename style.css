@@ -1,0 +1,26 @@
+
+nav.menu-nav ul li.btn{
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav.menu-nav ul li.btn a{
+   color: rgb(198, 195, 195);
+   background-color: black;
+   text-decoration: none; 
+   padding: 10px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+    color: black;
+    background-color: rgb(198, 195, 195);
+}
+
+*{
+    text-align: center;
+    color: gray;
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+}
